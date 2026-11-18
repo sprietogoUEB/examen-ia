@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>Práctica IA · Simulador de examen</title>
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="sources.js"></script>
+  <script defer src="questions.js"></script>
+  <script defer src="engine.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#screen">Ir al contenido</a>
+  <aside class="rail">
+    <a href="#inicio" class="brand">
+      <span class="mark" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+      <span>Práctica IA<small>Ingeniería de software</small></span>
+    </a>
+    <nav aria-label="Navegación principal">
+      <a href="#inicio" data-nav="inicio">Practicar</a>
+      <a href="#progreso" data-nav="progreso">Progreso</a>
+      <a href="#historial" data-nav="historial">Historial</a>
+      <a href="#temario" data-nav="temario">Temario</a>
+    </nav>
+    <div class="rail-footer">
+      <button class="theme" id="theme" type="button">Modo oscuro</button>
+      <span>Funciona sin conexión</span>
+    </div>
+  </aside>
+  <div class="layout">
+    <p id="notice" class="notice" role="status" hidden></p>
+    <main id="screen" tabindex="-1"></main>
+    <noscript>Activa JavaScript para usar el simulador.</noscript>
+    <footer class="footer">Tendencias avanzadas en Ingeniería de Software asistida por IA</footer>
+  </div>
+  <input id="import" type="file" accept=".json,application/json" hidden>
+</body>
+</html>

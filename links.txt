@@ -1,0 +1,28 @@
+VIDEOS:
+https://www.youtube.com/watch?v=gv0WHhKelSE
+https://www.youtube.com/watch?v=sKBuSaaoN1Y
+https://www.youtube.com/watch?v=CQywdSdi5iA
+https://www.youtube.com/watch?v=kddjxKEeCuM
+BLOGS/FUENTES
+https://www.anthropic.com/research/equipping-agents-for-the-real-world-with-agent-skills
+https://claude.com/es/resources/webinars/claude-code-advanced-patterns
+https://claude.com/es/resources/webinars/claude-code-foundations
+https://martinfowler.com/articles/practical-test-pyramid.html
+https://martinfowler.com/articles/practical-test-pyramid.html
+https://adr.github.io/
+https://adr.github.io/
+https://medium.com/@mohanakrishnakavali/why-system-design-still-matters-in-the-ai-era-1dde7e50fbd9
+https://medium.com/@preeti.rana.ai/system-design-for-software-developers-in-the-age-of-ai-be0934c01f8a
+https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb
+https://niteshkhilwani.medium.com/adding-an-ai-layer-to-software-application-architecture-7c37b34753a3
+https://www.promptingguide.ai/techniques
+https://www.geeksforgeeks.org/system-design/solid-principle-in-programming-understand-with-real-life-examples/
+https://www.geeksforgeeks.org/system-design/software-design-patterns/
+INVESTIGA SOBRE IA:
+Plugins y extensiones sobre IDEs existentes
+Desarrollo guiado por especificaciones (SDD)
+Chat web y constructores de aplicaciones
+IDEs nativos de IA
+Agentes de terminal (CLI)
+Pruebas y QA asistido por IA
+Metodologías de ciclo de vida completo

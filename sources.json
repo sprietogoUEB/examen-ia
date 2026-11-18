@@ -1,0 +1,545 @@
+[
+  {
+    "id": "A",
+    "title": "Ingeniería de software con agentes de IA",
+    "kind": "PDF",
+    "origin": "Original",
+    "status": "Procesada",
+    "file": "Ingeniería de software con agentes de IA.pdf",
+    "note": "Extracción y revisión visual de 54 páginas. Tablas de harness, herramientas, verificación y autonomía."
+  },
+  {
+    "id": "T",
+    "title": "Taller Exploratorio",
+    "kind": "PDF",
+    "origin": "Original",
+    "status": "Procesada",
+    "file": "Taller Exploratorio.pdf",
+    "note": "Extracción y revisión visual de 7 páginas. Siete líneas, ficha, actividades, referencias y rúbrica."
+  },
+  {
+    "id": "P",
+    "title": "Tendencias avanzadas en Ingeniería de Software asistida por IA",
+    "kind": "PDF",
+    "origin": "Original",
+    "status": "Procesada",
+    "file": "Tendencias avanzadas en Ingeniería de Software asistida por IA.pdf",
+    "note": "Extracción y revisión visual de 7 páginas. Programa, resultados de aprendizaje, cronograma y bibliografía."
+  },
+  {
+    "id": "S",
+    "title": "Tendencias ISW-IA - Slides 1",
+    "kind": "PDF",
+    "origin": "Original",
+    "status": "Procesada",
+    "file": "Tendencias ISW-IA - Slides 1.pdf",
+    "note": "Extracción y revisión visual de 70 páginas. Incluye gráficos de ciclo, arquitectura, modelos y muestreo."
+  },
+  {
+    "id": "L",
+    "title": "links.txt",
+    "kind": "TXT",
+    "origin": "Original",
+    "status": "Procesada",
+    "file": "links.txt",
+    "note": "18 apariciones de URL, 16 URLs únicas y siete líneas de investigación."
+  },
+  {
+    "id": "Y1",
+    "title": "Claude Code best practices | Code w/ Claude",
+    "kind": "Video",
+    "origin": "Original",
+    "status": "Parcialmente procesada",
+    "url": "https://www.youtube.com/watch?v=gv0WHhKelSE",
+    "note": "Subtítulos en inglés extraídos, hasta 25:42. Exploración, contextos, permisos, pruebas, herramientas y sesiones paralelas. Revisión mediante texto con marcas de tiempo; sin inspección exhaustiva de fotogramas."
+  },
+  {
+    "id": "Y2",
+    "title": "Build and deploy a full app with Claude Code in 2026",
+    "kind": "Video",
+    "origin": "Original",
+    "status": "Parcialmente procesada",
+    "url": "https://www.youtube.com/watch?v=sKBuSaaoN1Y",
+    "note": "Subtítulos en inglés extraídos, hasta 16:32. Prototipo de reservas, persistencia, autenticación y despliegue. Revisión mediante texto con marcas de tiempo; sin inspección exhaustiva de fotogramas."
+  },
+  {
+    "id": "Y3",
+    "title": "The Model Context Protocol (MCP)",
+    "kind": "Video",
+    "origin": "Original",
+    "status": "Parcialmente procesada",
+    "url": "https://www.youtube.com/watch?v=CQywdSdi5iA",
+    "note": "Subtítulos en inglés extraídos, hasta 19:30. Primitivas, origen, estandarización, adopción, apertura y ambigüedad de herramientas. Revisión mediante texto con marcas de tiempo; sin inspección exhaustiva de fotogramas."
+  },
+  {
+    "id": "Y4",
+    "title": "How to Set Up Claude Code in 2026",
+    "kind": "Video",
+    "origin": "Original",
+    "status": "Parcialmente procesada",
+    "url": "https://www.youtube.com/watch?v=kddjxKEeCuM",
+    "note": "Subtítulos en inglés extraídos, hasta 19:42. Instalación, interfaz, contexto, planificación, aplicación Kanban y agentes exploradores. Revisión mediante texto con marcas de tiempo; sin inspección exhaustiva de fotogramas."
+  },
+  {
+    "id": "W1",
+    "title": "Equipping agents for the real world with Agent Skills",
+    "kind": "Web",
+    "origin": "Original",
+    "status": "Procesada",
+    "url": "https://www.anthropic.com/research/equipping-agents-for-the-real-world-with-agent-skills",
+    "note": "Lectura de anatomía, carga progresiva, scripts, evaluación y seguridad."
+  },
+  {
+    "id": "W2",
+    "title": "Claude Code Advanced Patterns",
+    "kind": "Web",
+    "origin": "Original",
+    "status": "Parcialmente procesada",
+    "url": "https://claude.com/es/resources/webinars/claude-code-advanced-patterns",
+    "note": "Ficha original accesible por HTTP: descripción, ponentes y temario (subagentes, hooks, MCP y contexto). Grabación tras formulario, sin transcripción revisada.",
+    "alternate": "https://claude.com/resources/webinars/claude-code-advanced-patterns"
+  },
+  {
+    "id": "W3",
+    "title": "Claude Code: Foundations",
+    "kind": "Web",
+    "origin": "Original",
+    "status": "Parcialmente procesada",
+    "url": "https://claude.com/es/resources/webinars/claude-code-foundations",
+    "note": "Ficha original accesible por HTTP: descripción y temario (CLI, ciclo agéntico, plan mode y configuración de proyecto). Grabación tras formulario, sin transcripción revisada.",
+    "alternate": "https://claude.com/resources/webinars/claude-code-foundations"
+  },
+  {
+    "id": "W4",
+    "title": "The Practical Test Pyramid",
+    "kind": "Web",
+    "origin": "Original",
+    "status": "Procesada",
+    "url": "https://martinfowler.com/articles/practical-test-pyramid.html",
+    "note": "Pirámide, distintos alcances de prueba y contratos. URL duplicada en el TXT."
+  },
+  {
+    "id": "W5",
+    "title": "Architectural Decision Records",
+    "kind": "Web",
+    "origin": "Original",
+    "status": "Procesada",
+    "url": "https://adr.github.io/",
+    "note": "Definiciones de decisión significativa, ADR y registro. URL duplicada en el TXT."
+  },
+  {
+    "id": "W6",
+    "title": "Why System Design Still Matters in the AI Era",
+    "kind": "Web",
+    "origin": "Original",
+    "status": "Procesada",
+    "url": "https://medium.com/@mohanakrishnakavali/why-system-design-still-matters-in-the-ai-era-1dde7e50fbd9",
+    "note": "Artículo de autor. Contrapartidas, escalamiento de malas decisiones, fallos y supervisión."
+  },
+  {
+    "id": "W7",
+    "title": "System Design for Software Developers in the Age of AI",
+    "kind": "Web",
+    "origin": "Original",
+    "status": "Procesada",
+    "url": "https://medium.com/@preeti.rana.ai/system-design-for-software-developers-in-the-age-of-ai-be0934c01f8a",
+    "note": "Artículo de autor. Datos, cómputo, latencia, precisión y monitoreo."
+  },
+  {
+    "id": "W8",
+    "title": "The Complete Guide to System Design in 2026 AI-Native and Serverless",
+    "kind": "Web",
+    "origin": "Original",
+    "status": "Procesada",
+    "url": "https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb",
+    "note": "Artículo de autor. RAG en ruta crítica, serverless y decisiones de costo. Recomendaciones atribuidas al artículo."
+  },
+  {
+    "id": "W9",
+    "title": "Adding an AI Layer to Software Application Architecture",
+    "kind": "Web",
+    "origin": "Original",
+    "status": "Procesada",
+    "url": "https://niteshkhilwani.medium.com/adding-an-ai-layer-to-software-application-architecture-7c37b34753a3",
+    "note": "Caso ContentABC. Búsqueda semántica, resumen, recomendaciones y voz. Capa de IA como propuesta del autor."
+  },
+  {
+    "id": "W10",
+    "title": "Prompt Engineering Guide · Prompting Techniques",
+    "kind": "Web",
+    "origin": "Original",
+    "status": "Procesada",
+    "url": "https://www.promptingguide.ai/techniques",
+    "note": "Índice y secciones de las 18 técnicas. RAG tiene un localizador independiente. El banco distingue estrategias de ejemplos, exploración, recuperación, optimización y herramientas.",
+    "sections": {
+      "Zero-Shot Prompting": "https://www.promptingguide.ai/techniques/zeroshot",
+      "Few-Shot Prompting": "https://www.promptingguide.ai/techniques/fewshot",
+      "Chain-of-Thought Prompting": "https://www.promptingguide.ai/techniques/cot",
+      "Self-Consistency": "https://www.promptingguide.ai/techniques/consistency",
+      "Prompt Chaining": "https://www.promptingguide.ai/techniques/prompt_chaining",
+      "Tree of Thoughts": "https://www.promptingguide.ai/techniques/tot",
+      "ReAct": "https://www.promptingguide.ai/techniques/react",
+      "Reflexion": "https://www.promptingguide.ai/techniques/reflexion",
+      "GraphPrompts": "https://www.promptingguide.ai/techniques/graph",
+      "Meta Prompting": "https://www.promptingguide.ai/techniques/meta-prompting",
+      "Automatic Prompt Engineer": "https://www.promptingguide.ai/techniques/ape",
+      "Active-Prompt": "https://www.promptingguide.ai/techniques/activeprompt",
+      "Directional Stimulus Prompting": "https://www.promptingguide.ai/techniques/dsp",
+      "Generated Knowledge Prompting": "https://www.promptingguide.ai/techniques/knowledge",
+      "PAL": "https://www.promptingguide.ai/techniques/pal",
+      "Automatic Reasoning and Tool-use": "https://www.promptingguide.ai/techniques/art",
+      "Multimodal CoT Prompting": "https://www.promptingguide.ai/techniques/multimodalcot"
+    }
+  },
+  {
+    "id": "W11",
+    "title": "SOLID Principles with Real Life Examples",
+    "kind": "Web",
+    "origin": "Original",
+    "status": "Procesada",
+    "url": "https://www.geeksforgeeks.org/system-design/solid-principle-in-programming-understand-with-real-life-examples/",
+    "note": "Principios y ejemplos conceptuales del material propuesto."
+  },
+  {
+    "id": "W12",
+    "title": "Design Patterns Tutorial",
+    "kind": "Web",
+    "origin": "Original",
+    "status": "Procesada",
+    "url": "https://www.geeksforgeeks.org/system-design/software-design-patterns/",
+    "note": "Taxonomía y patrones de ejemplo. Enlaces tutoriales hijos no inventariados como recursos originales."
+  },
+  {
+    "id": "C1",
+    "title": "MCP · Architecture overview",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://modelcontextprotocol.io/docs/learn/architecture",
+    "note": "Host, clientes, servidores, protocolo y primitivas."
+  },
+  {
+    "id": "C2",
+    "title": "Visual Studio Code · Build with AI",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://code.visualstudio.com/docs/agents/overview",
+    "note": "Extensiones, agentes y contexto de edición."
+  },
+  {
+    "id": "C3",
+    "title": "Claude · What are artifacts and how do I use them?",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://support.claude.com/en/articles/17153992-what-are-artifacts-and-how-do-i-use-them",
+    "note": "Entregables editables junto al chat."
+  },
+  {
+    "id": "C4",
+    "title": "Claude Code Docs · Overview",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://code.claude.com/docs/en/overview",
+    "note": "CLI, contexto del repositorio y otras superficies de acceso."
+  },
+  {
+    "id": "C5",
+    "title": "Cursor Docs",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://cursor.com/docs",
+    "note": "Editor, agente, reglas, MCP y CLI."
+  },
+  {
+    "id": "C6",
+    "title": "Playwright · Test Agents",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://playwright.dev/docs/test-agents",
+    "note": "Planner, generator y healer."
+  },
+  {
+    "id": "C7",
+    "title": "Lovable",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://lovable.dev/",
+    "note": "Constructor web por lenguaje natural."
+  },
+  {
+    "id": "C8",
+    "title": "GitHub Spec Kit",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://github.com/github/spec-kit",
+    "note": "Constitución, especificación, plan, tareas e implementación."
+  },
+  {
+    "id": "C9",
+    "title": "Fission AI · OpenSpec",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://github.com/Fission-AI/OpenSpec",
+    "note": "Artefactos por cambio y consolidación de especificaciones."
+  },
+  {
+    "id": "C10",
+    "title": "Kiro · Specs",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://kiro.dev/docs/specs/",
+    "note": "Flujo de requisitos, diseño y tareas integrado en Kiro."
+  },
+  {
+    "id": "C11",
+    "title": "BMAD Method",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+    "note": "Roles especializados y artefactos por etapa."
+  },
+  {
+    "id": "C12",
+    "title": "AWS · AI-Driven Development Life Cycle",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://aws.amazon.com/blogs/devops/ai-driven-development-life-cycle/",
+    "note": "Fases y validación humana."
+  },
+  {
+    "id": "C13",
+    "title": "IBM Bob",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://bob.ibm.com/",
+    "note": "Herramienta de desarrollo y controles organizacionales."
+  },
+  {
+    "id": "C14",
+    "title": "OpenAI · Codex CLI",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://learn.chatgpt.com/docs/codex/cli",
+    "note": "Forma de acceso, trabajo sobre un directorio y herramientas."
+  },
+  {
+    "id": "C15",
+    "title": "Cascade · documentación del proveedor",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://docs.devin.ai/desktop/cascade",
+    "note": "Documentación de Cascade, redirigida desde Windsurf y marcada como legacy."
+  },
+  {
+    "id": "C16",
+    "title": "Google Gemini Code Assist · Overview",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://docs.cloud.google.com/gemini/docs/codeassist/overview",
+    "note": "Asistencia dentro de IDEs compatibles."
+  },
+  {
+    "id": "C17",
+    "title": "Cline Overview",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://docs.cline.bot/cline-overview",
+    "note": "Agente de IDE y aprobación de acciones."
+  },
+  {
+    "id": "C18",
+    "title": "Gemini CLI documentation",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://geminicli.com/docs/",
+    "note": "Uso en terminal, directorio y control de herramientas."
+  },
+  {
+    "id": "C19",
+    "title": "Prompt Engineering Guide · Retrieval Augmented Generation",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://www.promptingguide.ai/techniques/rag",
+    "note": "Recuperación y generación con contexto."
+  },
+  {
+    "id": "C20",
+    "title": "Vercel · What is v0?",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://v0.app/docs",
+    "note": "Generación e iteración de aplicaciones por descripción."
+  },
+  {
+    "id": "C21",
+    "title": "Bolt Help Center",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://support.bolt.new/",
+    "note": "Flujo de construcción web y documentación."
+  },
+  {
+    "id": "C22",
+    "title": "Replit Agent · Overview",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://docs.replit.com/features/agent/overview",
+    "note": "Construcción y prueba de apps a partir de descripciones."
+  },
+  {
+    "id": "C23",
+    "title": "Scrum Guide",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://scrumguides.org/scrum-guide.html",
+    "note": "Product Goal, Sprint Goal, refinamiento y Definition of Done."
+  },
+  {
+    "id": "C24",
+    "title": "Manifiesto Ágil",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://agilemanifesto.org/iso/es/manifesto.html",
+    "note": "Valores de colaboración y respuesta al cambio."
+  },
+  {
+    "id": "C25",
+    "title": "DORA · Software delivery performance metrics",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://dora.dev/guides/dora-metrics/",
+    "note": "Medidas de velocidad y estabilidad de la entrega."
+  },
+  {
+    "id": "C26",
+    "title": "NIST · SSDF 1.1",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://csrc.nist.gov/pubs/sp/800/218/final",
+    "note": "Prácticas de seguridad integradas al ciclo de vida."
+  },
+  {
+    "id": "C27",
+    "title": "Atlassian · Kanban",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://www.atlassian.com/agile/kanban",
+    "note": "Visualización del trabajo, límites de WIP y flujo."
+  },
+  {
+    "id": "C28",
+    "title": "Anthropic · Claude Platform Docs",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://platform.claude.com/docs/en/home",
+    "note": "Documentación del proveedor, familias y API."
+  },
+  {
+    "id": "C29",
+    "title": "OpenAI · API Models",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://developers.openai.com/api/docs/models",
+    "note": "Catálogo actual como referencia independiente del corte del curso."
+  },
+  {
+    "id": "C30",
+    "title": "Google · Gemini Models",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://aistudio.google.com/docs/models",
+    "note": "Catálogo y capacidades, redirigido desde Gemini API Docs."
+  },
+  {
+    "id": "C31",
+    "title": "Yao et al. · ReAct",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://arxiv.org/abs/2210.03629",
+    "note": "Trabajo original sobre intercalar razonamiento y acciones."
+  },
+  {
+    "id": "C32",
+    "title": "Wei et al. · Chain-of-Thought Prompting",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://arxiv.org/abs/2201.11903",
+    "note": "Trabajo original sobre ejemplos con pasos intermedios."
+  },
+  {
+    "id": "C33",
+    "title": "GitHub Copilot Documentation",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://docs.github.com/en/copilot",
+    "note": "Documentación de agente, contextos y controles de equipo."
+  },
+  {
+    "id": "C34",
+    "title": "AWS · Open-Sourcing Adaptive Workflows for AI-DLC",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://aws.amazon.com/blogs/devops/open-sourcing-adaptive-workflows-for-ai-driven-development-life-cycle-ai-dlc/",
+    "note": "Flujos adaptativos y profundidad que responde a complejidad."
+  },
+  {
+    "id": "C35",
+    "title": "Claude Code Advanced Patterns · ficha en inglés",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Parcialmente procesada",
+    "url": "https://claude.com/resources/webinars/claude-code-advanced-patterns",
+    "note": "Ficha y temario en inglés. Grabación tras formulario."
+  },
+  {
+    "id": "C36",
+    "title": "Claude Code: Foundations · ficha en inglés",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Parcialmente procesada",
+    "url": "https://claude.com/resources/webinars/claude-code-foundations",
+    "note": "Ficha y temario en inglés. Grabación tras formulario."
+  },
+  {
+    "id": "C37",
+    "title": "OpenAI API Platform Documentation",
+    "kind": "Web",
+    "origin": "Complementaria",
+    "status": "Procesada",
+    "url": "https://developers.openai.com/api/docs",
+    "note": "Punto de entrada y referencia de API, redirigido desde la bibliografía del curso."
+  }
+]
